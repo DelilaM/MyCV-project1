@@ -1,4 +1,4 @@
-# MyCV
+
 <html>
 <head>
 	<title>My CV</title>
@@ -19,7 +19,7 @@ Phone: +38761081255
 
 <br><div style="background-color:pink; text-align:center"><hr>
 <h2 style="color:#707070; font-family:verdana"> <b>Basic informations </b> </h2>
-<p><b> I am a third year student at the International University of Sarajevo, department of Computer Science. I would like to get more experience in the field which I study in order to to put my theoretical knowledge into practice. Also I love traveling, so internship abroad whould be a great idea.  I am always up for the new challenges and learning new things. I like working in teams. Hopefully I will get a chance to create new things which would be helpful to the community.</br>
+<p><b> I am a third year student at the International University of Sarajevo, department of Computer Science. I would like to get more experience in the field which I study in order to to put my theoretical knowledge into practice. Also I love traveling, so internship abroad whould be a great idea.  I am always up for the new challenges and learning new things. I like working in teams. Hopefully I will get a chance to create new things which would be helpful to the community.
 </b></p> 
 <br><hr>
 </div>
@@ -89,7 +89,7 @@ Phone: +38761081255
 </ul>
 
 
-<div style="background-color:pink; color:#707070">
+
 <hr>
 <table style="width:100%">
   <tr>
